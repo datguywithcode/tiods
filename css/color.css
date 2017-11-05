@@ -1,0 +1,22 @@
+/*==// ThemeColor's //==*/
+
+.thcolor,.thcolorhover:hover,.navigation ul .sub-dropdown > li:hover.parentIcon:before,.kd-services h5,.kd-service:hover h2,.kdnews:hover h2 a,.kdblog:hover h2 a,.kdcroud:hover h5 a,.recentpost-widget li:hover h6 a,.kdevent:hover h2 a,.kdnews-vtwo:hover h2 a,.kd-service i,
+.kdnews-vtwo:hover h4 a,.kdcroud .kd-readmore,.heading-style3 h2 span,.heading-style4 h2 span,.kd-404 h1, .kd-modrenview i, #respond form input[type="text"]:focus, #respond form p textarea:focus, .widget input[type="text"]:focus, .widget textarea:focus {
+  color: #03AF14 !important;
+}
+
+.thbg-color,.thbg-colorhover:hover,footer .socialnetwork ul li a:hover,.event-detail .socialnetwork li a:hover,
+.kdnews-vtwo figure figcaption:before,.kd-team .socialnetwork li a:hover,.kd-mainthumb .socialnetwork li a:hover,.news-box .text .date,
+.kddetail-post .socialnetwork ul li:hover a,.nextprev-post ul li:hover .inner-post,.pagination ul li a:hover,.pagination ul li.active a,
+#respond form p input[type="submit"],.navigation ul li .sub-dropdown > li:hover > a,.navigation ul > li:hover > a,.kdcroud.compact a.kd-readmore:hover,.topbaar,.progress-bar,.funding-info,.item_tab li a.active,#banner-1 .caption a.donate-btn,.theme-bg, .kdnews:hover figure figcaption i, .portfolio-list:hover .kd-text, .about-auther .socialnetwork ul li a:hover, .kd-team-2 .socialnetwork ul li a:hover, .team-detail .socialnetwork ul li a:hover {
+  background-color: #03AF14 !important;
+}
+
+.th-bordercolor,.th-bordercolorhover:hover,.sub-dropdown,.page-sidebar .widget-title h2:before,.event-detail .socialnetwork li a:hover,
+#clock-ticker .flip-top,.wrap-title h1, .kd-modrenview i, .widget input[type="text"]:focus, .widget textarea:focus {
+  border-color: #03AF14 !important;
+}
+
+.kd-service:hover i {
+	box-shadow: 0px 0px 0px 50px #03AF14 inset !important;
+}
